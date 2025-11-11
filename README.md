@@ -51,12 +51,10 @@
 
 <h3 align="left">My CP Handles:</h3>
 <p align="left">
-  <a href="https://codeforces.com/profile/panchanansahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="panchanansahoo" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/panchanan0143" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tushar_104" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/javasahooai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="panchanansahoo" height="30" width="40" /></a>
+ 
   <a href="https://leetcode.com/u/PanchananSahoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar_104" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/@javasahooai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="panchanansahoo" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/panchanansahoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="panchanansahoo" height="30" width="40" /></a>
+ 
+ 
 </p>
 <br/>
 
@@ -167,3 +165,4 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <p align="right"> <a href="#top">Back to Top</a> </p>
+
