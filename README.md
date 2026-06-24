@@ -112,7 +112,7 @@
 
 - 👨‍💻 All of my projects are available at my Portfolio website.
 -Check out here  [https://www.preploop.me/](https://www.preploop.me/)
-<img src="https://github.com/panchanansahoo/backbencher-note/blob/master/backbencher_note.png">
+<img src="https://github.com/panchanansahoo/PanchananSahoo/blob/main/front.png">
 <br/>
 
 ---
